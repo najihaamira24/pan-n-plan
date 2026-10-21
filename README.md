@@ -54,5 +54,7 @@ The app runs in debug mode, so it is meant for local development.
 
 ## Author
 Amira Najihah Fadri Putri
+Fidela Nabilah Putri Harinsi
+Sulthania Auliya Afandi
 
 <!-- If this was a team project, list the members and your role here. -->
