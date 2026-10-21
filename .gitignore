@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local database (contains user data) and user uploads
+recipe_book.db
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Secrets
+.env
